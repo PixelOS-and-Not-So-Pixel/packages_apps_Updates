@@ -156,7 +156,7 @@ public class Utils {
     }
 
     private static String getBuildType(){
-        return SystemProperties.get(Constants.PROP_BUILD_TYPE, "");
+        return "OFFICIAL";
     }
 
     public static String getServerURL() {

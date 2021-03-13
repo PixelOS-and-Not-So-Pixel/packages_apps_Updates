@@ -36,6 +36,6 @@ public final class Constants {
     static final String OTA_URL = "https://raw.githubusercontent.com/PixelOS-and-Not-So-Pixel/OTA-Devices/eleven/%s.json";
     static final String OTA_CI_URL = "https://download.pixelexperience.org/ota_ci/%s/%s";
     static final String MAINTAINER_URL = "https://t.me/real_twel12";
-    static final String DOWNLOAD_WEBPAGE_URL = "https://raw.githubusercontent.com/PixelOS-and-Not-So-Pixel/OTA-Devices/eleven/'%s'_changelogs.txt";
+    static final String DOWNLOAD_WEBPAGE_URL = "https://raw.githubusercontent.com/PixelOS-and-Not-So-Pixel/OTA-Devices/eleven/%s_changelogs.txt";
     static final String EXPORT_PATH = "PixelExperience-Updates/";
 }
